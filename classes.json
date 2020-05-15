@@ -1,0 +1,82 @@
+{
+    "barbarians": {
+        "description" : "Something something another something",
+        "stats": {
+            "strength": 1,
+            "dexterity": 2,
+            "intelligence": 1,
+            "fortitude": 2,
+            "endurance": 1
+        }
+    },
+    "paladins": {
+        "description": "Dit is een faketekst. Alles wat hier staat is slechts om een indruk te geven van het grafische effect van tekst op deze plek.",
+        "stats": {
+            "strength": 3,
+            "dexterity": 4,
+            "intelligence": 3,
+            "fortitude": 4,
+            "endurance": 3
+        }
+    },
+    "ranger": {
+        "description": "Dit is een faketekst. Alles wat hier staat is slechts om een indruk te geven van het grafische effect van tekst op deze plek.",
+        "stats": {
+            "strength": 3,
+            "dexterity": 4,
+            "intelligence": 3,
+            "fortitude": 4,
+            "endurance": 3
+        }
+    },
+    "thieves": {
+        "description": "Dit is een faketekst. Alles wat hier staat is slechts om een indruk te geven van het grafische effect van tekst op deze plek.",
+        "stats": {
+            "strength": 3,
+            "dexterity": 4,
+            "intelligence": 3,
+            "fortitude": 4,
+            "endurance": 3
+        }
+    },
+    "fighter": {
+        "description": "Dit is een faketekst. Alles wat hier staat is slechts om een indruk te geven van het grafische effect van tekst op deze plek.",
+        "stats": {
+            "strength": 3,
+            "dexterity": 4,
+            "intelligence": 3,
+            "fortitude": 4,
+            "endurance": 3
+        }
+    },
+    "druid": {
+        "description": "Dit is een faketekst. Alles wat hier staat is slechts om een indruk te geven van het grafische effect van tekst op deze plek.",
+        "stats": {
+            "strength": 3,
+            "dexterity": 4,
+            "intelligence": 3,
+            "fortitude": 4,
+            "endurance": 3
+        }
+    },
+    "mage": {
+        "description": "Dit is een faketekst. Alles wat hier staat is slechts om een indruk te geven van het grafische effect van tekst op deze plek.",
+        "stats": {
+            "strength": 3,
+            "dexterity": 4,
+            "intelligence": 3,
+            "fortitude": 4,
+            "endurance": 3
+        }
+    },
+    "cleric": {
+        "description": "Dit is een faketekst. Alles wat hier staat is slechts om een indruk te geven van het grafische effect van tekst op deze plek.",
+        "stats": {
+            "strength": 3,
+            "dexterity": 4,
+            "intelligence": 3,
+            "fortitude": 4,
+            "endurance": 3
+        }
+    }
+}
